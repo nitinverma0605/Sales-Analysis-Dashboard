@@ -38,3 +38,7 @@ The business questions answered include:
 - **Power Query** – Data cleaning & transformation  
 - **DAX** – Measures and calculated columns  
 - **Excel/CSV** – Raw datasets  
+
+## 📄 Full Report
+You can explore the full Power BI report exported as a PDF here:  
+👉 [View the Report](Sales_&_Customer_Performance_Analysis.pdf)
